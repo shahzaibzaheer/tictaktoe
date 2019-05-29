@@ -1,0 +1,47 @@
+body
+{
+	background-color: #ddd;
+	font-family: "Comic Sans MS";
+}
+table
+{
+	text-align: center;
+	margin: 2% auto;
+}
+td
+{
+	width: 100px;
+	height: 100px;
+}
+#heading
+{
+	color: #000;
+	font-size: 3em;
+	font-weight: bolder;
+}
+#info
+{
+	color: red;
+	font-weight: bold;
+	font-size: 1.5em;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	display: inline-block;
+	margin: 15px 0;
+}
+
+.borderLR
+{
+	border-left:	4px solid black;
+	border-right:	4px solid black;
+}
+.borderTB
+{
+	border-top: 4px solid black;
+	border-bottom:  4px solid black;
+}
+img
+{
+	width: 70px;
+	height: 70px;
+}
